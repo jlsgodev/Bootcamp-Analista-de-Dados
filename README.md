@@ -88,8 +88,8 @@ Participar deste bootcamp me permitiu:
 
 ## 📩 **Contato**  
 Caso queira saber mais sobre minha experiência no bootcamp ou discutir projetos de análise de dados, sinta-se à vontade para entrar em contato:  
-- **Email**: [seu_email@example.com](mailto:jhonnlsgoncalves@gmail.com)  
-- **LinkedIn**: [seu_linkedin](https://linkedin.com/in/goncalvesjhon)  
+- **Email**: [jhonnlsgoncalves@gmail.com](mailto:jhonnlsgoncalves@gmail.com)  
+- **LinkedIn**: [https://linkedin.com/in/goncalvesjhon](https://linkedin.com/in/goncalvesjhon)  
 
 ---
 
