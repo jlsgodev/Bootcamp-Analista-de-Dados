@@ -1,5 +1,3 @@
-Aqui está um modelo de README detalhado e profissional para o bootcamp que você participou:
-
 ---
 
 # Bootcamp Intensivo de Analista de Dados  
